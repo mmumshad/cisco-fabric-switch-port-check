@@ -1,0 +1,8 @@
+#SwitchName 	SwitchIP	SwitchPort	Username	Password	VSAN	PortName
+#------------------------------------------------------------------------------------------------
+MDS9513		10.0.0.123      fc3/12         	admin 		Pass1234	12	
+MDS9513		10.0.0.123      fc3/1         	admin 		Pass1234	12
+MDS9513		10.0.0.123      fc3/11         	admin 		Pass1234	12
+MDS9513		10.0.0.123      fc3/3         	admin 		Pass1234	12
+MDS9513		10.0.0.123      fc3/21         	admin 		Pass1234	12
+MDS9513		10.0.0.123      fc3/5         	admin 		Pass1234	12
